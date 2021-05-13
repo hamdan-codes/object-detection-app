@@ -1,5 +1,5 @@
 flask
-cv2==4.4.0
+opencv-python
 numpy
 Click==7.0
 gunicorn==19.9.0
